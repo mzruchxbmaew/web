@@ -1,5 +1,6 @@
 streamlit
-deepface
-scikit-learn
+deepface==0.0.79
+tensorflow==2.12.0
+keras==2.12.0
 pillow
-tensorflow
+scikit-learn
