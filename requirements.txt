@@ -2,3 +2,4 @@ streamlit
 deepface
 scikit-learn
 pillow
+tensorflow
