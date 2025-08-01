@@ -1,4 +1,0 @@
-streamlit
-deepface
-pillow
-scikit-learn
